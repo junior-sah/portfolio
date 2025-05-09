@@ -8,7 +8,7 @@ Welcome! I'm an aspiring cybersecurity professional with hands-on experience in 
 ## 📫 Contact Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sampson-sah-jr-970201230/) 
-- 📄 [Resume (PDF)](Sah - Resume 2025.pdf)  
+- 📄 [Resume (PDF)](https://github.com/junior-sah/portfolio/blob/1c2bfc35b87cdb1f8768f7cff54b27038967cc9b/Sah%20-%20Resume%202025.pdf) 
 - 📧 sampsonsahjr@gmail.com 
 
 ---
